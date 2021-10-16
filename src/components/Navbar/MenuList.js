@@ -5,16 +5,16 @@ export const MenuList = [
         url:"/"
     },
     {
+        title: "SHOP",
+        url:"/shop"
+    },
+    {
         title: "BLOG",
         url:"/blog"
     },
     {
         title: "EVENTS",
         url:"/events"
-    },
-    {
-        title: "SHOP",
-        url:"/shop"
     },
     {
         title: "REVIEWS",
