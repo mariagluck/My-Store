@@ -1,4 +1,4 @@
-# MY STORE
+# COOL STORE -MY STORE-
 
 In this project, I will be building an e-commerce store in react, with fake-api data, a blog section, events sectin, data fetched, and the following sections:
 
