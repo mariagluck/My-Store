@@ -1,6 +1,6 @@
 # MY STORE
 
-In this project, I will be building an e-commerce store in react, with fake-api d blog section, events sectioata fetched, an the following sections:
+In this project, I will be building an e-commerce store in react, with fake-api data, a blog section, events sectin, data fetched, and the following sections:
 
 - e-commerce store with shopping-cart, items, etc..
 - blog with posts and comments to the posts
@@ -15,6 +15,7 @@ In this project, I will be building an e-commerce store in react, with fake-api 
     * BLOG
     * EVENTS
     * REVIEWS
+    * CART (shopping cart)
     * SIGN IN
     * SIGN UP
 
